@@ -36,6 +36,29 @@
 <img src="para.png">
 
 
+### prompt format 
+
+<img src="promptfm.png">
+
+### sample example of sentiment analysis 
+
+```
+context: " act as an analyst working on OTT platform. you will have to perform sentiment analysis based on feedback provided by the consumers on OTT movies and series. ""
+
+Instruction: " classify feedback as neutral , negative or positive , where positive is promotor ; negative is demotor and neutral is neither promotor or demotor ""
+
+Example:  
+Feedback: i think the series was okey .
+sentiment: Neutral 
+Feedback: the action of each character in the series was awesome.
+sentiment: Positive 
+
+Input data and output Indicator : 
+Feedback:  the storyline for the series was repetitive and absymal . 
+sentiment: 
+
+```
+
 
 
 
