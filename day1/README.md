@@ -10,3 +10,17 @@
 
 <img src="llm1.png">
 
+## lab usage 
+
+<img src="lab1.png">
+
+## LLM with DL (ANN)
+
+<img src="dl1.png">
+
+### GENAI understanding 
+
+<img src="genain.png">
+
+
+
