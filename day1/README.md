@@ -77,3 +77,7 @@ has context menu
 ```
 
 
+### advanced prompting strategy 
+
+<img src="pmpst1.png">
+
