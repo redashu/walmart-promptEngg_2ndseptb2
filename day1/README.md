@@ -1,6 +1,6 @@
 ### intro to prompt engineering 
 
-<img src="promp1.png">
+<img src="prompt1.png">
 
 ### Basic of Ai model 
 
