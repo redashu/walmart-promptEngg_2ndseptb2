@@ -23,4 +23,19 @@
 <img src="genain.png">
 
 
+### GPT model offerings 
+
+<img src="gptm1.png">
+
+## Prompt basic info 
+
+<img src="prompb1.png">
+
+### Understanding gpt model parameters 
+
+<img src="para.png">
+
+
+
+
 
