@@ -38,3 +38,16 @@ Analyze this video and tell me few insights about that as per listed below
 
 ```
 
+## Prompt templating 
+
+<img src="promptt.png">
+
+
+### GPT model internal data details 
+
+<img src="dd.png">
+
+## task for the day 
+
+<img src="task1.png">
+

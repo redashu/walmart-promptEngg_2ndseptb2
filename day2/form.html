@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Registration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="form-container">
+    <form action="/submit_registration" method="post">
+        <h1>Event Registration</h1>
+        <p>Register with us to get more details.</p>
+        
+        <div class="form-group">
+            <label for="first-name">Name</label>
+            <div class="name-fields">
+                <input type="text" id="first-name" name="first-name" placeholder="First">
+                <input type="text" id="last-name" name="last-name" placeholder="Last">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" name="phone" required>
+        </div>
+
+        <div class="form-group">
+            <label for="topic">Topic</label>
+            <select id="topic" name="topic" required>
+                <option value="">-Select-</option>
+                <option value="topic1">Topic 1</option>
+                <option value="topic2">Topic 2</option>
+                <option value="topic3">Topic 3</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="slot">Preferred Slot</label>
+            <select id="slot" name="slot" required>
+                <option value="">-Select-</option>
+                <option value="morning">Morning</option>
+                <option value="afternoon">Afternoon</option>
+                <option value="evening">Evening</option>
+            </select>
+        </div>
+
+        <button type="submit">Sign me up</button>
+    </form>
+</div>
+
+</body>
+</html>
