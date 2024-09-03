@@ -27,3 +27,14 @@ your task is to analyze the file and give me below listed information.
 2. give 5 takeaways 
 ```
 
+### youtube video analysis 
+
+```
+@YouTube https://www.youtube.com/watch?v=p7HKvqRI_Bo
+Analyze this video and tell me few insights about that as per listed below
+1. why video is engaging 
+2. why it performed so well youtube views
+3. what are the target audiance for this video
+
+```
+
