@@ -1,4 +1,8 @@
-### Basic info 
+### Type of prompts 
 
-<img src="info.png">
+<img src="typep.png">
+
+### Recepie pattern prompt 
+
+<img src-="rcp.png">
 
