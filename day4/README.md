@@ -13,3 +13,10 @@
 
 <img src="res.png">
 
+
+### prompt --
+
+```
+analyze the key factor influencing the sales performance of give online market place data.
+consider aspects such as customer reviews , pricing strategy , product descriptions and competition
+```
