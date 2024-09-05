@@ -9,3 +9,7 @@
 
 [check_pricing](https://openai.com/api/pricing/)
 
+### External data sources options in response consideration 
+
+<img src="res.png">
+
